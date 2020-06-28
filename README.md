@@ -1,2 +1,2 @@
-# bom-dia-Angola
-meu primeiro repository
+# Bom-Dia-Angola
+Meu primeiro repository:
